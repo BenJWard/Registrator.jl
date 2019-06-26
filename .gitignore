@@ -1,4 +1,8 @@
 /tmp
 /registries
 /packages
-*.env
+*.secret.toml
+oldlogs/
+*.log
+nohup.out
+run/stop*
